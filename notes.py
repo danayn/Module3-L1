@@ -6,6 +6,8 @@ LESSON 1: Python Dictionaries
 
 # There are four collection data types in the Python programming language: List, Tuple, Set, and Dictionary.
 
+https://www.w3schools.com/python/python_dictionaries.asp
+
 '''
 # Dictionaries are used to store data values in --> key: value pairs.
 # A dictionary is a collection which is ordered*, changeable and do not allow duplicates.
